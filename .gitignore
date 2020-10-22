@@ -1,4 +1,6 @@
 .DS_Store
 credentials.json
+client_secret.json
+.env
 output.mp3
 *.pyc
